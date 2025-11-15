@@ -1,0 +1,14 @@
+.grid {
+  background-color: lightcyan;
+  position: relative;
+}
+
+.row {
+  background-color: lightcyan;
+  text-align: center;
+}
+
+.gridSquare {
+  background-color: white;
+  text-align: center;
+}
